@@ -28,10 +28,8 @@ This project showcases cutting-edge frontend web development techniques, leverag
 - None (purely frontend implementation)
 
 **Contributors:**
-- [Your Name]
-
-**Contact:**
-For any queries or feedback, contact [Your Email]. 
+- Yagna rao
+- Jashwanth Simha 
 
 **Note:**
 - This project is purely frontend-based and does not require any backend server setup.
